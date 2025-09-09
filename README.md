@@ -1,19 +1,39 @@
-# Data Science, AI, and Machine Learning Projects
+# Summer Internship 
 
-Welcome to my GitHub! 
-This collection is all about learning and working with Data Science, Artificial Intelligence, and Machine Learning. I’m exploring how computers can analyze data, make decisions, and find patterns — all in simple words!
+Welcome to my portfolio of projects completed during my Summer Internship in Data Science. This repository contains a collection of Jupyter notebooks that demonstrate my skills in leveraging Python for the entire data science lifecycle, from data acquisition to insight visualization.
 
-**What you'll find here:**  
-- Fun projects that show how AI and ML work  
-- Data analysis and visualization  
-- Basic machine learning models and ideas  
-- Clear explanations to make things easy and understandable
+---
 
-**My goal:**  
-To learn, experiment, and share easy examples so everyone can understand these cool tech topics.
+## Core Competencies & Topics Covered
 
-**How to use this:**  
-Feel free to explore the projects, try the code, and ask questions. I’m still learning too—so any feedback is welcome!
+This internship provided me with hands-on experience in various data science domains. The notebooks in this repository showcase my proficiency in the following areas:
 
-Thanks for visiting!  
-Let’s discover the world of Data Science and AI together.
+* **Python Programming:** Utilizing core data structures and programming concepts for data analysis.
+* **Data Acquisition:**
+    * Reading and writing data from files (`.csv`, `.xlsx`, `.json`).
+    * Fetching data from REST **APIs**.
+    * **Web Scraping** using libraries like BeautifulSoup and requests.
+* **Data Wrangling & Cleaning:**
+    * Handling missing values, duplicates, and outliers.
+    * Data type conversions
+    * Transforming and reshaping data using the **Pandas** library.
+* **Data Interpretation & Visualization:**
+    * Performing Exploratory Data Analysis (EDA) to uncover patterns.
+    * Creating insightful and clear visualizations using **Matplotlib**.
+    * Communicating findings and telling a story with data.
+---
+
+## Technologies Used
+
+* **Language:** Python 3
+* **Libraries:**
+    * Pandas
+    * NumPy
+    * Matplotlib
+    * BeautifulSoup4
+    * Requests
+* **Tools:**
+    * Jupyter Notebook
+    * Git & GitHub
+
+---
